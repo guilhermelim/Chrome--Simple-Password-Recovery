@@ -1,4 +1,4 @@
-# Simple-Chrome-Password-Recovery
+# Simple Chrome Password Recovery
 
 Simples aplicação para recuperar senhas salvas no navegardor Google Chrome armazenadas localmente e em cookies.
 Não há DDLs externas para utlização do SQLite, tudo é feito atráves da classe SQLiteHandler.
