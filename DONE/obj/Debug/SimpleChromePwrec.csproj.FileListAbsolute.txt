@@ -10,3 +10,5 @@ C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\Simpl
 C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\SimpleChromePwrec.csproj.CoreCompileInputs.cache
 C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\DONE.exe
 C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\DONE.pdb
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\bin\Debug\DONE.exe.CodeAnalysisLog.xml
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\bin\Debug\DONE.exe.lastcodeanalysissucceeded
