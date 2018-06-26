@@ -3,3 +3,10 @@ C:\Users\Admin\Desktop\Pwrec\DONE\bin\Debug\DONE.exe
 C:\Users\Admin\Desktop\Pwrec\DONE\bin\Debug\DONE.pdb
 C:\Users\Admin\Desktop\Pwrec\DONE\obj\Debug\DONE.exe
 C:\Users\Admin\Desktop\Pwrec\DONE\obj\Debug\DONE.pdb
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\bin\Debug\DONE.exe.config
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\bin\Debug\DONE.exe
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\bin\Debug\DONE.pdb
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\SimpleChromePwrec.csprojAssemblyReference.cache
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\SimpleChromePwrec.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\DONE.exe
+C:\Users\guilh\Source\Repos\Simple-Chrome-Password-Recovery\DONE\obj\Debug\DONE.pdb

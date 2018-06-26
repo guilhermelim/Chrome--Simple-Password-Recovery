@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Chrome.cs" />
-    <Compile Include="Chromium.cs" />
+    <Compile Include="Tools\Chrome\Chrome.cs" />
+    <Compile Include="Tools\Chrome\Chromium.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Field.cs" />
-    <Compile Include="SQLiteHandler.cs" />
+    <Compile Include="Tools\Chrome\Field.cs" />
+    <Compile Include="Tools\SQLiteHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
